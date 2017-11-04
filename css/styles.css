@@ -1,0 +1,42 @@
+
+
+
+.hero {
+  background-image: url('../images/workspace.jpg');
+  height: 1200px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 40px;
+}
+
+.white-text{
+  color: #fff;
+}
+
+
+
+/*skills section*/
+
+#skills{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+
+.skills{
+  padding-top: 75px;
+}
+
+.my-skills{
+  margin-right: 0px;
+}
+
+.fa{
+  color: #000;
+  font-size: 200px;
+  border-bottom: solid #000
+}
+
+#my-work{
+  background-color: #484848;
+}
